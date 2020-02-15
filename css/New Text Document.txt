@@ -1,0 +1,32 @@
+me diay quress add 
+
+
+file:///E:/classs/gfghf/public%20first/index.pakistan.html  (.img-box-4 img {
+    border-radius: 50%;
+    display: inline-block;
+    width: 100%;
+} )
+
+
+
+
+file:///E:/classs/gfghf/public%20first/index-2.html 
+
+( <img src="./img/pcp2.jpg" alt="1" width="257" height="223" style="
+    /* width: 100%; */
+"> )
+
+
+
+
+
+
+
+
+file:///E:/classs/gfghf/public%20first/index.ptdc.html
+
+
+(  .text-box-2 h2 {
+    color: #fff;
+    font-size: 22px;
+} )
